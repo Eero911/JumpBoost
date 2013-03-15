@@ -1,0 +1,20 @@
+name: JumpBoost
+main: me.eero911.jumpboost.JumpBoost
+version: 1.0
+
+permissions:
+    jumpboost.*:
+        description: Gives Jump Boost 3
+        children:
+            speedboost.jump.one: false
+            speedboost.jump.two: false
+            speedboost.jump.three: false
+    jumpboost.one:
+        description: Gives Jump Boost I
+        default: false
+    jumpboost.two:
+        description: Gives Jump Boost II
+        default: false
+    jumpboost.three:
+        description: Gives Jump Boost III
+        default: false
