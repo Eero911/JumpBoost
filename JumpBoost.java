@@ -1,3 +1,15 @@
+/////////////////////////////////////////////////////////////////////////////
+//                                                                         //
+//                                                                         //
+//                                                                         //
+//           Hey, can i ask you to delete your jumpboost                   //
+//                             repository                                  //
+//               and fork to my JumpBoost repository                       //
+//             it would be easier for me to edit source                    //
+//                                                                         //
+//                                                                         //
+//                                                                         //
+/////////////////////////////////////////////////////////////////////////////
 package me.eero911.jumpboost;
  
 
